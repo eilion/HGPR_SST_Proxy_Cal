@@ -1,0 +1,4 @@
+q: 0.065
+d: 2.48
+max_iters: 100
+batch_size: 200
